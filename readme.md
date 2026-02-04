@@ -36,3 +36,5 @@ Conversa com o github Copilot
 - nessa funcao adicione mais 3 listas com nomes, raça de cachorro e letras e mostre tudo
 
 - agr crie um readme.mo sobre esse projeto para publicacao no github
+
+- Read.me criado e otimo modelo de Prompt criado
